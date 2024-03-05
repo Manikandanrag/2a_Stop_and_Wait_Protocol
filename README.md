@@ -39,9 +39,11 @@ while True:
 ```
 ## OUTPUT:
 ### CLIENT
-![image](https://github.com/Manikandanrag/2a_Stop_and_Wait_Protocol/assets/138849491/3599e8a2-75a8-4d44-ae32-13d817fd6d64)
+![Screenshot 2024-03-05 212101](https://github.com/Manikandanrag/2a_Stop_and_Wait_Protocol/assets/138849491/adaa413d-548a-4155-92a2-84ff60bfd1f6)
+
 ### SERVER
-![image](https://github.com/Manikandanrag/2a_Stop_and_Wait_Protocol/assets/138849491/4ce47b7e-51e0-4ea3-bd28-ff4363354344)
+![Screenshot 2024-03-05 212127](https://github.com/Manikandanrag/2a_Stop_and_Wait_Protocol/assets/138849491/c65ee3ac-1bdc-4074-9301-c3c37946e48e)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
